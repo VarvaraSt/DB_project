@@ -1,0 +1,240 @@
+INSERT INTO "ingredient" ("id","name","category_id","calories","proteins","fats","carbohydrates")
+VALUES
+  (1,'fillet,',5,476,20,48,78),
+  (2,'macaroni,',6,23,57,62,49),
+  (3,'Herbs',1,103,43,79,3),
+  (4,'pizza,',9,728,86,18,47),
+  (5,'apple',10,358,71,30,99),
+  (6,'kiwi,',9,373,69,78,15),
+  (7,'cream;',7,927,46,58,49),
+  (8,'pie,',5,965,65,49,98),
+  (9,'cream,',6,541,30,59,41),
+  (10,'meat',6,869,64,20,58);
+INSERT INTO "ingredient" ("id","name","category_id","calories","proteins","fats","carbohydrates")
+VALUES
+  (11,'pork,',2,397,1,15,99),
+  (12,'flakes,',3,689,9,53,41),
+  (13,'garlic;',7,209,30,34,73),
+  (14,'cake,',3,17,60,32,26),
+  (15,'beer,',2,499,78,94,43),
+  (16,'pepper;',10,92,8,97,66),
+  (17,'sweet',7,748,95,33,42),
+  (18,'pasta,',4,132,14,81,4),
+  (19,'cherry,',3,204,75,96,10),
+  (20,'cherry,',5,18,51,56,2);
+INSERT INTO "ingredient" ("id","name","category_id","calories","proteins","fats","carbohydrates")
+VALUES
+  (21,'and',4,313,78,78,67),
+  (22,'Grain',2,474,90,79,97),
+  (23,'cream,',8,420,46,2,50),
+  (24,'Meat',4,986,6,66,15),
+  (25,'grapefruit',10,491,54,54,63),
+  (26,'chocolate',7,595,40,21,38),
+  (27,'leg,',2,639,70,49,66),
+  (28,'breast,',4,427,71,22,2),
+  (29,'wine,',3,339,56,53,78),
+  (30,'grapefruit',5,443,93,90,95);
+INSERT INTO "ingredient" ("id","name","category_id","calories","proteins","fats","carbohydrates")
+VALUES
+  (31,'Dairy',11,883,54,19,20),
+  (32,'potatoes,',11,254,6,94,7),
+  (33,'cheese;',4,720,29,56,48),
+  (34,'bakery',4,946,90,18,28),
+  (35,'sweets,',11,228,4,71,56),
+  (36,'dates;',4,763,6,9,68),
+  (37,'jam,',4,885,100,35,30),
+  (38,'cheese,',5,2,46,28,64),
+  (39,'dill,',4,429,34,50,68),
+  (40,'Meat',3,225,7,19,78);
+INSERT INTO "ingredient" ("id","name","category_id","calories","proteins","fats","carbohydrates")
+VALUES
+  (41,'Cakes',9,755,63,89,82),
+  (42,'Alcoholic',4,449,15,76,59),
+  (43,'chocolate,',4,790,78,97,78),
+  (44,'apricot,',7,298,60,93,80),
+  (45,'meat',10,289,87,44,87),
+  (46,'noodles,',5,822,45,11,58),
+  (47,'goods,',3,187,81,44,32),
+  (48,'roll,',3,854,92,37,14),
+  (49,'Fruit',6,456,1,5,34),
+  (50,'pineapple;',10,482,28,7,34);
+INSERT INTO "ingredient" ("id","name","category_id","calories","proteins","fats","carbohydrates")
+VALUES
+  (51,'peas,',4,308,68,99,68),
+  (52,'dressing',3,684,37,1,14),
+  (53,'ice',4,662,100,55,12),
+  (54,'cheese,',2,552,69,46,32),
+  (55,'figs,',7,910,54,11,74),
+  (56,'crackers',3,803,13,83,53),
+  (57,'white',3,4,89,51,71),
+  (58,'beef,',4,733,46,76,97),
+  (59,'cinnamon',6,376,68,97,56),
+  (60,'breast,',3,411,18,58,5);
+INSERT INTO "ingredient" ("id","name","category_id","calories","proteins","fats","carbohydrates")
+VALUES
+  (61,'eggs;',3,214,40,49,54),
+  (62,'fillet,',1,370,88,13,16),
+  (63,'whole',1,459,69,2,21),
+  (64,'cocoa,',3,444,15,98,74),
+  (65,'walnuts,',5,129,49,4,32),
+  (66,'bacon,',7,936,92,39,1),
+  (67,'juice,',5,342,22,8,74),
+  (68,'vodka,',10,371,32,81,79),
+  (69,'bread,',10,581,76,59,22),
+  (70,'raisins,',2,942,73,34,78);
+INSERT INTO "ingredient" ("id","name","category_id","calories","proteins","fats","carbohydrates")
+VALUES
+  (71,'cranberry,',6,697,4,76,44),
+  (72,'cake,',4,874,73,54,23),
+  (73,'sunflower',10,524,7,78,10),
+  (74,'Preserves',10,708,1,91,38),
+  (75,'ice',2,682,17,69,17),
+  (76,'cheese;',7,325,10,83,57),
+  (77,'lamb;',6,975,50,83,77),
+  (78,'mustard,',5,598,59,46,69),
+  (79,'dressing,',3,654,77,38,45),
+  (80,'lemon,',7,397,97,23,41);
+INSERT INTO "ingredient" ("id","name","category_id","calories","proteins","fats","carbohydrates")
+VALUES
+  (81,'breast,',7,787,64,73,94),
+  (82,'parsley,',5,63,27,66,99),
+  (83,'meat',2,994,36,16,79),
+  (84,'syrup;',7,459,3,82,46),
+  (85,'peach,',7,322,11,15,2),
+  (86,'Ice',10,63,12,44,33),
+  (87,'dates;',5,772,41,1,69),
+  (88,'hazelnuts,',4,271,78,8,24),
+  (89,'hamburgers,',10,319,62,15,56),
+  (90,'vodka,',7,205,46,15,40);
+INSERT INTO "ingredient" ("id","name","category_id","calories","proteins","fats","carbohydrates")
+VALUES
+  (91,'oatmeal',9,972,10,48,37),
+  (92,'Grain',3,867,32,15,3),
+  (93,'juice,',4,768,91,20,97),
+  (94,'hazelnuts,',8,367,59,59,63),
+  (95,'pie,',5,357,7,13,50),
+  (96,'Roquefort,',4,892,80,21,68),
+  (97,'drinks',7,954,94,39,4),
+  (98,'oysters;',5,906,35,58,22),
+  (99,'Italian',10,155,10,72,12),
+  (100,'oatmeal',10,237,87,0,36);
+INSERT INTO "ingredient" ("id","name","category_id","calories","proteins","fats","carbohydrates")
+VALUES
+  (101,'popcorn;',3,558,6,30,21),
+  (102,'grapefruit;',10,795,20,95,18),
+  (103,'dates;',5,850,65,56,26),
+  (104,'sunflower',10,92,52,35,56),
+  (105,'meat',3,878,23,81,80),
+  (106,'fillet,',7,255,97,37,46),
+  (107,'cod,',5,853,66,36,76),
+  (108,'raspberry;',9,834,46,13,21),
+  (109,'cognac,',9,606,63,60,21),
+  (110,'dried',5,133,80,21,41);
+INSERT INTO "ingredient" ("id","name","category_id","calories","proteins","fats","carbohydrates")
+VALUES
+  (111,'cognac,',4,585,31,69,65),
+  (112,'red',4,318,29,4,60),
+  (113,'pork,',4,45,48,21,96),
+  (114,'oysters;',3,890,97,32,41),
+  (115,'pepper;',5,807,63,62,59),
+  (116,'Berries',8,422,49,32,92),
+  (117,'dates;',8,264,22,95,18),
+  (118,'Swiss',11,930,97,87,35),
+  (119,'corn',4,856,8,24,87),
+  (120,'ice',6,394,7,38,37);
+INSERT INTO "ingredient" ("id","name","category_id","calories","proteins","fats","carbohydrates")
+VALUES
+  (121,'Fruit',4,452,21,43,73),
+  (122,'cauliflower,',2,654,6,82,52),
+  (123,'bun,',2,699,20,33,70),
+  (124,'watermelon;',10,780,13,57,8),
+  (125,'hazelnuts,',11,926,44,41,60),
+  (126,'hamburger',6,242,88,6,34),
+  (127,'bread,',7,196,89,66,70),
+  (128,'salmon,',3,407,57,6,8),
+  (129,'peas,',8,762,42,77,37),
+  (130,'vodka,',7,23,1,65,75);
+INSERT INTO "ingredient" ("id","name","category_id","calories","proteins","fats","carbohydrates")
+VALUES
+  (131,'Dried',9,790,4,86,64),
+  (132,'lamb;',9,902,19,49,33),
+  (133,'juice;',5,63,36,71,99),
+  (134,'onion,',5,150,34,4,77),
+  (135,'fruit',2,637,2,13,90),
+  (136,'Fruit',5,413,5,86,28),
+  (137,'cherry;',2,891,65,55,73),
+  (138,'cream,',9,333,21,14,18),
+  (139,'Vegetables',10,925,93,74,76),
+  (140,'peas,',10,296,81,47,88);
+INSERT INTO "ingredient" ("id","name","category_id","calories","proteins","fats","carbohydrates")
+VALUES
+  (141,'cranberry',8,917,50,4,82),
+  (142,'oil',1,247,18,45,55),
+  (143,'pie,',9,467,19,39,53),
+  (144,'potatoes,',4,671,47,50,22),
+  (145,'hazelnuts,',5,582,49,75,17),
+  (146,'beans,',1,253,35,72,15),
+  (147,'wine,',8,618,13,18,49),
+  (148,'chocolate',5,907,93,93,81),
+  (149,'raspberry;',10,74,72,44,98),
+  (150,'tomato',11,695,67,96,40);
+INSERT INTO "ingredient" ("id","name","category_id","calories","proteins","fats","carbohydrates")
+VALUES
+  (151,'oat',11,233,43,63,78),
+  (152,'and',6,746,67,90,28),
+  (153,'grapes,',10,263,31,44,97),
+  (154,'peach,',1,95,13,92,22),
+  (155,'hamburgers,',3,479,7,96,0),
+  (156,'and',2,649,67,44,26),
+  (157,'chocolate',9,73,49,81,30),
+  (158,'Cheese',7,400,77,56,24),
+  (159,'oil,',5,644,75,34,88),
+  (160,'juice;',10,629,45,47,99);
+INSERT INTO "ingredient" ("id","name","category_id","calories","proteins","fats","carbohydrates")
+VALUES
+  (161,'juice',6,127,88,69,3),
+  (162,'fillet,',8,428,94,55,91),
+  (163,'corn',3,884,7,31,31),
+  (164,'cocoa,',11,222,79,21,5),
+  (165,'garlic,',5,609,74,82,36),
+  (166,'oil,',7,379,12,73,22),
+  (167,'oil;',5,867,95,99,97),
+  (168,'rye,',7,343,4,54,48),
+  (169,'champagne;',2,220,34,49,59),
+  (170,'mayonnaise;',11,755,37,51,60);
+INSERT INTO "ingredient" ("id","name","category_id","calories","proteins","fats","carbohydrates")
+VALUES
+  (171,'tomato',7,192,91,30,20),
+  (172,'crackers',4,578,59,33,74),
+  (173,'chocolate',1,830,17,55,90),
+  (174,'mushrooms;',2,417,92,3,65),
+  (175,'fish',10,372,55,93,70),
+  (176,'oats,',9,425,37,32,39),
+  (177,'cod,',2,145,22,82,20),
+  (178,'kidney',4,32,66,70,50),
+  (179,'meat',11,80,50,21,87),
+  (180,'cake,',9,460,77,7,87);
+INSERT INTO "ingredient" ("id","name","category_id","calories","proteins","fats","carbohydrates")
+VALUES
+  (181,'bread;',4,78,39,26,19),
+  (182,'salmon,',2,689,3,39,87),
+  (183,'cranberry,',9,722,95,36,60),
+  (184,'banana,',4,550,100,89,95),
+  (185,'noodles,',9,195,88,97,25),
+  (186,'watermelon;',8,507,7,13,41),
+  (187,'juice,',4,550,62,48,17),
+  (188,'potatoes,',4,899,59,58,19),
+  (189,'crackers',10,256,13,79,84),
+  (190,'macaroni,',7,10,11,64,33);
+INSERT INTO "ingredient" ("id","name","category_id","calories","proteins","fats","carbohydrates")
+VALUES
+  (191,'caviar;',9,946,90,20,13),
+  (192,'Roquefort,',9,820,23,84,97),
+  (193,'chocolate',9,541,65,54,88),
+  (194,'coffee,',4,946,51,57,99),
+  (195,'veal,',5,424,7,3,91),
+  (196,'almonds,',5,493,99,100,33),
+  (197,'crackers',2,832,46,78,44),
+  (198,'olive',3,989,15,35,8),
+  (199,'white',2,860,23,11,87),
+  (200,'olive',8,128,63,2,76);
